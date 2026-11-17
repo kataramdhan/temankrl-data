@@ -1,0 +1,32 @@
+[
+  {
+    "id": "KCI-LINE-R",
+    "operator_code": "KCI",
+    "line_code": "R",
+    "name": "Lin Rangkasbitung",
+    "display_name": "Green Line",
+    "color_hex": "#16A34A",
+    "scope": "Tanah Abang - Rangkasbitung",
+    "status": "MVP_SELECTED"
+  },
+  {
+    "id": "KCI-LINE-T",
+    "operator_code": "KCI",
+    "line_code": "T",
+    "name": "Lin Tangerang",
+    "display_name": "Brown Line",
+    "color_hex": "#B87333",
+    "scope": "Duri - Tangerang",
+    "status": "MVP_SELECTED"
+  },
+  {
+    "id": "KCI-LINE-B",
+    "operator_code": "KCI",
+    "line_code": "B",
+    "name": "Lin Bogor",
+    "display_name": "Red Line",
+    "color_hex": "#EF4444",
+    "scope": "Jakarta Kota - Bogor",
+    "status": "MVP_SELECTED"
+  }
+]

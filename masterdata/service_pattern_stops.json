@@ -1,0 +1,772 @@
+[
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 1,
+    "station_id": "KCI-THB",
+    "station_name_snapshot": "Tanah Abang",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 2,
+    "station_id": "KCI-PLM",
+    "station_name_snapshot": "Palmerah",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 3,
+    "station_id": "KCI-KBY",
+    "station_name_snapshot": "Kebayoran",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 4,
+    "station_id": "KCI-PDJ",
+    "station_name_snapshot": "Pondok Ranji",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 5,
+    "station_id": "KCI-JMU",
+    "station_name_snapshot": "Jurang Mangu",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 6,
+    "station_id": "KCI-SDM",
+    "station_name_snapshot": "Sudimara",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 7,
+    "station_id": "KCI-RU",
+    "station_name_snapshot": "Rawa Buntu",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 8,
+    "station_id": "KCI-SRP",
+    "station_name_snapshot": "Serpong",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 9,
+    "station_id": "KCI-CSK",
+    "station_name_snapshot": "Cisauk",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 10,
+    "station_id": "KCI-CC",
+    "station_name_snapshot": "Cicayur",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 11,
+    "station_id": "KCI-JTK",
+    "station_name_snapshot": "Jatake",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 12,
+    "station_id": "KCI-PRP",
+    "station_name_snapshot": "Parung Panjang",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 13,
+    "station_id": "KCI-CJT",
+    "station_name_snapshot": "Cilejit",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 14,
+    "station_id": "KCI-DAR",
+    "station_name_snapshot": "Daru",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 15,
+    "station_id": "KCI-TEJ",
+    "station_name_snapshot": "Tenjo",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 16,
+    "station_id": "KCI-TGS",
+    "station_name_snapshot": "Tigaraksa",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 17,
+    "station_id": "KCI-CKY",
+    "station_name_snapshot": "Cikoya",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 18,
+    "station_id": "KCI-MJ",
+    "station_name_snapshot": "Maja",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 19,
+    "station_id": "KCI-CTR",
+    "station_name_snapshot": "Citeras",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-OUT",
+    "sequence": 20,
+    "station_id": "KCI-RK",
+    "station_name_snapshot": "Rangkasbitung",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 1,
+    "station_id": "KCI-RK",
+    "station_name_snapshot": "Rangkasbitung",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 2,
+    "station_id": "KCI-CTR",
+    "station_name_snapshot": "Citeras",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 3,
+    "station_id": "KCI-MJ",
+    "station_name_snapshot": "Maja",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 4,
+    "station_id": "KCI-CKY",
+    "station_name_snapshot": "Cikoya",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 5,
+    "station_id": "KCI-TGS",
+    "station_name_snapshot": "Tigaraksa",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 6,
+    "station_id": "KCI-TEJ",
+    "station_name_snapshot": "Tenjo",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 7,
+    "station_id": "KCI-DAR",
+    "station_name_snapshot": "Daru",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 8,
+    "station_id": "KCI-CJT",
+    "station_name_snapshot": "Cilejit",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 9,
+    "station_id": "KCI-PRP",
+    "station_name_snapshot": "Parung Panjang",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 10,
+    "station_id": "KCI-JTK",
+    "station_name_snapshot": "Jatake",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 11,
+    "station_id": "KCI-CC",
+    "station_name_snapshot": "Cicayur",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 12,
+    "station_id": "KCI-CSK",
+    "station_name_snapshot": "Cisauk",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 13,
+    "station_id": "KCI-SRP",
+    "station_name_snapshot": "Serpong",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 14,
+    "station_id": "KCI-RU",
+    "station_name_snapshot": "Rawa Buntu",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 15,
+    "station_id": "KCI-SDM",
+    "station_name_snapshot": "Sudimara",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 16,
+    "station_id": "KCI-JMU",
+    "station_name_snapshot": "Jurang Mangu",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 17,
+    "station_id": "KCI-PDJ",
+    "station_name_snapshot": "Pondok Ranji",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 18,
+    "station_id": "KCI-KBY",
+    "station_name_snapshot": "Kebayoran",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 19,
+    "station_id": "KCI-PLM",
+    "station_name_snapshot": "Palmerah",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-R-BACK",
+    "sequence": 20,
+    "station_id": "KCI-THB",
+    "station_name_snapshot": "Tanah Abang",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 1,
+    "station_id": "KCI-DU",
+    "station_name_snapshot": "Duri",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 2,
+    "station_id": "KCI-GGL",
+    "station_name_snapshot": "Grogol",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 3,
+    "station_id": "KCI-PSG",
+    "station_name_snapshot": "Pesing",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 4,
+    "station_id": "KCI-TKO",
+    "station_name_snapshot": "Taman Kota",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 5,
+    "station_id": "KCI-BOI",
+    "station_name_snapshot": "Bojong Indah",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 6,
+    "station_id": "KCI-RW",
+    "station_name_snapshot": "Rawa Buaya",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 7,
+    "station_id": "KCI-KDS",
+    "station_name_snapshot": "Kali Deres",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 8,
+    "station_id": "KCI-PI",
+    "station_name_snapshot": "Poris",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 9,
+    "station_id": "KCI-BPR",
+    "station_name_snapshot": "Batu Ceper",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 10,
+    "station_id": "KCI-TTI",
+    "station_name_snapshot": "Tanah Tinggi",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-OUT",
+    "sequence": 11,
+    "station_id": "KCI-TNG",
+    "station_name_snapshot": "Tangerang",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 1,
+    "station_id": "KCI-TNG",
+    "station_name_snapshot": "Tangerang",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 2,
+    "station_id": "KCI-TTI",
+    "station_name_snapshot": "Tanah Tinggi",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 3,
+    "station_id": "KCI-BPR",
+    "station_name_snapshot": "Batu Ceper",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 4,
+    "station_id": "KCI-PI",
+    "station_name_snapshot": "Poris",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 5,
+    "station_id": "KCI-KDS",
+    "station_name_snapshot": "Kali Deres",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 6,
+    "station_id": "KCI-RW",
+    "station_name_snapshot": "Rawa Buaya",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 7,
+    "station_id": "KCI-BOI",
+    "station_name_snapshot": "Bojong Indah",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 8,
+    "station_id": "KCI-TKO",
+    "station_name_snapshot": "Taman Kota",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 9,
+    "station_id": "KCI-PSG",
+    "station_name_snapshot": "Pesing",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 10,
+    "station_id": "KCI-GGL",
+    "station_name_snapshot": "Grogol",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-T-BACK",
+    "sequence": 11,
+    "station_id": "KCI-DU",
+    "station_name_snapshot": "Duri",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 1,
+    "station_id": "KCI-JAKK",
+    "station_name_snapshot": "Jakarta Kota",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 2,
+    "station_id": "KCI-JAY",
+    "station_name_snapshot": "Jayakarta",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 3,
+    "station_id": "KCI-MGB",
+    "station_name_snapshot": "Mangga Besar",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 4,
+    "station_id": "KCI-SW",
+    "station_name_snapshot": "Sawah Besar",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 5,
+    "station_id": "KCI-JUA",
+    "station_name_snapshot": "Juanda",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 6,
+    "station_id": "KCI-GDD",
+    "station_name_snapshot": "Gondangdia",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 7,
+    "station_id": "KCI-CKI",
+    "station_name_snapshot": "Cikini",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 8,
+    "station_id": "KCI-MRI",
+    "station_name_snapshot": "Manggarai",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 9,
+    "station_id": "KCI-TEB",
+    "station_name_snapshot": "Tebet",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 10,
+    "station_id": "KCI-CW",
+    "station_name_snapshot": "Cawang",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 11,
+    "station_id": "KCI-DRN",
+    "station_name_snapshot": "Duren Kalibata",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 12,
+    "station_id": "KCI-PSMB",
+    "station_name_snapshot": "Pasar Minggu Baru",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 13,
+    "station_id": "KCI-PSM",
+    "station_name_snapshot": "Pasar Minggu",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 14,
+    "station_id": "KCI-TNT",
+    "station_name_snapshot": "Tanjung Barat",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 15,
+    "station_id": "KCI-LNA",
+    "station_name_snapshot": "Lenteng Agung",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 16,
+    "station_id": "KCI-UP",
+    "station_name_snapshot": "Universitas Pancasila",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 17,
+    "station_id": "KCI-UI",
+    "station_name_snapshot": "Universitas Indonesia",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 18,
+    "station_id": "KCI-POC",
+    "station_name_snapshot": "Pondok Cina",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 19,
+    "station_id": "KCI-DPB",
+    "station_name_snapshot": "Depok Baru",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 20,
+    "station_id": "KCI-DP",
+    "station_name_snapshot": "Depok",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 21,
+    "station_id": "KCI-CTA",
+    "station_name_snapshot": "Citayam",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 22,
+    "station_id": "KCI-BJD",
+    "station_name_snapshot": "Bojong Gede",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 23,
+    "station_id": "KCI-CLT",
+    "station_name_snapshot": "Cilebut",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-OUT",
+    "sequence": 24,
+    "station_id": "KCI-BOO",
+    "station_name_snapshot": "Bogor",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 1,
+    "station_id": "KCI-BOO",
+    "station_name_snapshot": "Bogor",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 2,
+    "station_id": "KCI-CLT",
+    "station_name_snapshot": "Cilebut",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 3,
+    "station_id": "KCI-BJD",
+    "station_name_snapshot": "Bojong Gede",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 4,
+    "station_id": "KCI-CTA",
+    "station_name_snapshot": "Citayam",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 5,
+    "station_id": "KCI-DP",
+    "station_name_snapshot": "Depok",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 6,
+    "station_id": "KCI-DPB",
+    "station_name_snapshot": "Depok Baru",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 7,
+    "station_id": "KCI-POC",
+    "station_name_snapshot": "Pondok Cina",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 8,
+    "station_id": "KCI-UI",
+    "station_name_snapshot": "Universitas Indonesia",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 9,
+    "station_id": "KCI-UP",
+    "station_name_snapshot": "Universitas Pancasila",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 10,
+    "station_id": "KCI-LNA",
+    "station_name_snapshot": "Lenteng Agung",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 11,
+    "station_id": "KCI-TNT",
+    "station_name_snapshot": "Tanjung Barat",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 12,
+    "station_id": "KCI-PSM",
+    "station_name_snapshot": "Pasar Minggu",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 13,
+    "station_id": "KCI-PSMB",
+    "station_name_snapshot": "Pasar Minggu Baru",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 14,
+    "station_id": "KCI-DRN",
+    "station_name_snapshot": "Duren Kalibata",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 15,
+    "station_id": "KCI-CW",
+    "station_name_snapshot": "Cawang",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 16,
+    "station_id": "KCI-TEB",
+    "station_name_snapshot": "Tebet",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 17,
+    "station_id": "KCI-MRI",
+    "station_name_snapshot": "Manggarai",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 18,
+    "station_id": "KCI-CKI",
+    "station_name_snapshot": "Cikini",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 19,
+    "station_id": "KCI-GDD",
+    "station_name_snapshot": "Gondangdia",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 20,
+    "station_id": "KCI-JUA",
+    "station_name_snapshot": "Juanda",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 21,
+    "station_id": "KCI-SW",
+    "station_name_snapshot": "Sawah Besar",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 22,
+    "station_id": "KCI-MGB",
+    "station_name_snapshot": "Mangga Besar",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 23,
+    "station_id": "KCI-JAY",
+    "station_name_snapshot": "Jayakarta",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  },
+  {
+    "service_pattern_id": "KCI-SP-B-BACK",
+    "sequence": 24,
+    "station_id": "KCI-JAKK",
+    "station_name_snapshot": "Jakarta Kota",
+    "stop_status": "BASELINE_STOP_UNVERIFIED"
+  }
+]

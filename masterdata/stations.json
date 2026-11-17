@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "KCI-THB",
+    "operator_code": "KCI",
+    "station_code": "THB",
+    "name": "Tanah Abang",
+    "official_name": "TANAH ABANG",
+    "latitude": -6.1857,
+    "longitude": 106.8107,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:C",
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-PLM",
+    "operator_code": "KCI",
+    "station_code": "PLM",
+    "name": "Palmerah",
+    "official_name": "PALMERAH",
+    "latitude": -6.2075,
+    "longitude": 106.7973,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-KBY",
+    "operator_code": "KCI",
+    "station_code": "KBY",
+    "name": "Kebayoran",
+    "official_name": "KEBAYORAN",
+    "latitude": -6.2372,
+    "longitude": 106.7824,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-PDJ",
+    "operator_code": "KCI",
+    "station_code": "PDJ",
+    "name": "Pondok Ranji",
+    "official_name": "PONDOK RANJI",
+    "latitude": -6.2765,
+    "longitude": 106.7445,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-JMU",
+    "operator_code": "KCI",
+    "station_code": "JMU",
+    "name": "Jurang Mangu",
+    "official_name": "JURANG MANGU",
+    "latitude": -6.2887,
+    "longitude": 106.729,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-SDM",
+    "operator_code": "KCI",
+    "station_code": "SDM",
+    "name": "Sudimara",
+    "official_name": "SUDIMARA",
+    "latitude": -6.2969,
+    "longitude": 106.7126,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-RU",
+    "operator_code": "KCI",
+    "station_code": "RU",
+    "name": "Rawa Buntu",
+    "official_name": "RAWA BUNTU",
+    "latitude": -6.3149,
+    "longitude": 106.6762,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-SRP",
+    "operator_code": "KCI",
+    "station_code": "SRP",
+    "name": "Serpong",
+    "official_name": "SERPONG",
+    "latitude": -6.32,
+    "longitude": 106.6653,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CSK",
+    "operator_code": "KCI",
+    "station_code": "CSK",
+    "name": "Cisauk",
+    "official_name": "CISAUK",
+    "latitude": -6.3244,
+    "longitude": 106.6412,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CC",
+    "operator_code": "KCI",
+    "station_code": "CC",
+    "name": "Cicayur",
+    "official_name": "CICAYUR",
+    "latitude": -6.3295,
+    "longitude": 106.6186,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-JTK",
+    "operator_code": "KCI",
+    "station_code": "JTK",
+    "name": "Jatake",
+    "official_name": "JATAKE",
+    "latitude": -6.334754611,
+    "longitude": 106.606388611,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "OWNER_SUPPLIED_TEMANKRL_JATAKE_TASK",
+    "verification_status": "OWNER_SUPPLIED_CROSS_CHECKED_OSM_CODE_UNVERIFIED",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-PRP",
+    "operator_code": "KCI",
+    "station_code": "PRP",
+    "name": "Parung Panjang",
+    "official_name": "PARUNG PANJANG",
+    "latitude": -6.3442,
+    "longitude": 106.5699,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CJT",
+    "operator_code": "KCI",
+    "station_code": "CJT",
+    "name": "Cilejit",
+    "official_name": "CILEJIT",
+    "latitude": -6.3543,
+    "longitude": 106.5095,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-DAR",
+    "operator_code": "KCI",
+    "station_code": "DAR",
+    "name": "Daru",
+    "official_name": "DARU",
+    "latitude": -6.338,
+    "longitude": 106.4924,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-TEJ",
+    "operator_code": "KCI",
+    "station_code": "TEJ",
+    "name": "Tenjo",
+    "official_name": "TENJO",
+    "latitude": -6.3274,
+    "longitude": 106.4615,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-TGS",
+    "operator_code": "KCI",
+    "station_code": "TGS",
+    "name": "Tigaraksa",
+    "official_name": "TIGARAKSA",
+    "latitude": -6.3289,
+    "longitude": 106.434,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CKY",
+    "operator_code": "KCI",
+    "station_code": "CKY",
+    "name": "Cikoya",
+    "official_name": "CIKOYA",
+    "latitude": -6.3356,
+    "longitude": 106.4115,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-MJ",
+    "operator_code": "KCI",
+    "station_code": "MJ",
+    "name": "Maja",
+    "official_name": "MAJA",
+    "latitude": -6.3322,
+    "longitude": 106.3965,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CTR",
+    "operator_code": "KCI",
+    "station_code": "CTR",
+    "name": "Citeras",
+    "official_name": "CITERAS",
+    "latitude": -6.3347,
+    "longitude": 106.3324,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-RK",
+    "operator_code": "KCI",
+    "station_code": "RK",
+    "name": "Rangkasbitung",
+    "official_name": "RANGKASBITUNG",
+    "latitude": -6.3527,
+    "longitude": 106.2512,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:R"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-DU",
+    "operator_code": "KCI",
+    "station_code": "DU",
+    "name": "Duri",
+    "official_name": "DURI",
+    "latitude": -6.1552,
+    "longitude": 106.8013,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:A",
+      "KCI:C",
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-GGL",
+    "operator_code": "KCI",
+    "station_code": "GGL",
+    "name": "Grogol",
+    "official_name": "GROGOL",
+    "latitude": -6.162,
+    "longitude": 106.7887,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-PSG",
+    "operator_code": "KCI",
+    "station_code": "PSG",
+    "name": "Pesing",
+    "official_name": "PESING",
+    "latitude": -6.1612,
+    "longitude": 106.7718,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-TKO",
+    "operator_code": "KCI",
+    "station_code": "TKO",
+    "name": "Taman Kota",
+    "official_name": "TAMAN KOTA",
+    "latitude": -6.1585,
+    "longitude": 106.7562,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-BOI",
+    "operator_code": "KCI",
+    "station_code": "BOI",
+    "name": "Bojong Indah",
+    "official_name": "BOJONG INDAH",
+    "latitude": -6.16,
+    "longitude": 106.7363,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-RW",
+    "operator_code": "KCI",
+    "station_code": "RW",
+    "name": "Rawa Buaya",
+    "official_name": "RAWA BUAYA",
+    "latitude": -6.1626,
+    "longitude": 106.7235,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:A",
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-KDS",
+    "operator_code": "KCI",
+    "station_code": "KDS",
+    "name": "Kali Deres",
+    "official_name": "KALIDERES",
+    "latitude": -6.1661,
+    "longitude": 106.7035,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-PI",
+    "operator_code": "KCI",
+    "station_code": "PI",
+    "name": "Poris",
+    "official_name": "PORIS",
+    "latitude": -6.1697,
+    "longitude": 106.681,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-BPR",
+    "operator_code": "KCI",
+    "station_code": "BPR",
+    "name": "Batu Ceper",
+    "official_name": "BATU CEPER",
+    "latitude": -6.1721,
+    "longitude": 106.6648,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:A",
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-TTI",
+    "operator_code": "KCI",
+    "station_code": "TTI",
+    "name": "Tanah Tinggi",
+    "official_name": "TANAH TINGGI",
+    "latitude": -6.1752,
+    "longitude": 106.6459,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-TNG",
+    "operator_code": "KCI",
+    "station_code": "TNG",
+    "name": "Tangerang",
+    "official_name": "TANGERANG",
+    "latitude": -6.1768,
+    "longitude": 106.631,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:T"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-JAKK",
+    "operator_code": "KCI",
+    "station_code": "JAKK",
+    "name": "Jakarta Kota",
+    "official_name": "JAKARTA KOTA",
+    "latitude": -6.1375,
+    "longitude": 106.8146,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B",
+      "KCI:C",
+      "KCI:TP"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-JAY",
+    "operator_code": "KCI",
+    "station_code": "JAY",
+    "name": "Jayakarta",
+    "official_name": "JAYAKARTA",
+    "latitude": -6.1411,
+    "longitude": 106.8229,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-MGB",
+    "operator_code": "KCI",
+    "station_code": "MGB",
+    "name": "Mangga Besar",
+    "official_name": "MANGGA BESAR",
+    "latitude": -6.1498,
+    "longitude": 106.8269,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-SW",
+    "operator_code": "KCI",
+    "station_code": "SW",
+    "name": "Sawah Besar",
+    "official_name": "SAWAH BESAR",
+    "latitude": -6.1606,
+    "longitude": 106.8276,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-JUA",
+    "operator_code": "KCI",
+    "station_code": "JUA",
+    "name": "Juanda",
+    "official_name": "JUANDA",
+    "latitude": -6.1667,
+    "longitude": 106.8304,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-GDD",
+    "operator_code": "KCI",
+    "station_code": "GDD",
+    "name": "Gondangdia",
+    "official_name": "GONDANGDIA",
+    "latitude": -6.1859,
+    "longitude": 106.8324,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CKI",
+    "operator_code": "KCI",
+    "station_code": "CKI",
+    "name": "Cikini",
+    "official_name": "CIKINI",
+    "latitude": -6.1984,
+    "longitude": 106.8412,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-MRI",
+    "operator_code": "KCI",
+    "station_code": "MRI",
+    "name": "Manggarai",
+    "official_name": "MANGGARAI",
+    "latitude": -6.21,
+    "longitude": 106.8498,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:A",
+      "KCI:B",
+      "KCI:C"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-TEB",
+    "operator_code": "KCI",
+    "station_code": "TEB",
+    "name": "Tebet",
+    "official_name": "TEBET",
+    "latitude": -6.2262,
+    "longitude": 106.8584,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CW",
+    "operator_code": "KCI",
+    "station_code": "CW",
+    "name": "Cawang",
+    "official_name": "CAWANG",
+    "latitude": -6.2424,
+    "longitude": 106.8586,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-DRN",
+    "operator_code": "KCI",
+    "station_code": "DRN",
+    "name": "Duren Kalibata",
+    "official_name": "DUREN KALIBATA",
+    "latitude": -6.2552,
+    "longitude": 106.8551,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-PSMB",
+    "operator_code": "KCI",
+    "station_code": "PSMB",
+    "name": "Pasar Minggu Baru",
+    "official_name": "PASAR MINGGU BARU",
+    "latitude": -6.2629,
+    "longitude": 106.8516,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-PSM",
+    "operator_code": "KCI",
+    "station_code": "PSM",
+    "name": "Pasar Minggu",
+    "official_name": "PASAR MINGGU",
+    "latitude": -6.284,
+    "longitude": 106.8445,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-TNT",
+    "operator_code": "KCI",
+    "station_code": "TNT",
+    "name": "Tanjung Barat",
+    "official_name": "TANJUNG BARAT",
+    "latitude": -6.3078,
+    "longitude": 106.8389,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-LNA",
+    "operator_code": "KCI",
+    "station_code": "LNA",
+    "name": "Lenteng Agung",
+    "official_name": "LENTENG AGUNG",
+    "latitude": -6.3303,
+    "longitude": 106.8347,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-UP",
+    "operator_code": "KCI",
+    "station_code": "UP",
+    "name": "Universitas Pancasila",
+    "official_name": "UNIV. PANCASILA",
+    "latitude": -6.3389,
+    "longitude": 106.8343,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-UI",
+    "operator_code": "KCI",
+    "station_code": "UI",
+    "name": "Universitas Indonesia",
+    "official_name": "UNIV. INDONESIA",
+    "latitude": -6.3607,
+    "longitude": 106.8317,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-POC",
+    "operator_code": "KCI",
+    "station_code": "POC",
+    "name": "Pondok Cina",
+    "official_name": "PONDOK CINA",
+    "latitude": -6.3687,
+    "longitude": 106.8323,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-DPB",
+    "operator_code": "KCI",
+    "station_code": "DPB",
+    "name": "Depok Baru",
+    "official_name": "DEPOK BARU",
+    "latitude": -6.3912,
+    "longitude": 106.8216,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-DP",
+    "operator_code": "KCI",
+    "station_code": "DP",
+    "name": "Depok",
+    "official_name": "DEPOK",
+    "latitude": -6.4047,
+    "longitude": 106.817,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CTA",
+    "operator_code": "KCI",
+    "station_code": "CTA",
+    "name": "Citayam",
+    "official_name": "CITAYAM",
+    "latitude": -6.4488,
+    "longitude": 106.8024,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-BJD",
+    "operator_code": "KCI",
+    "station_code": "BJD",
+    "name": "Bojong Gede",
+    "official_name": "BOJONGGEDE",
+    "latitude": -6.4927,
+    "longitude": 106.7951,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-CLT",
+    "operator_code": "KCI",
+    "station_code": "CLT",
+    "name": "Cilebut",
+    "official_name": "CILEBUT",
+    "latitude": -6.5308,
+    "longitude": 106.8005,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  },
+  {
+    "id": "KCI-BOO",
+    "operator_code": "KCI",
+    "station_code": "BOO",
+    "name": "Bogor",
+    "official_name": "BOGOR",
+    "latitude": -6.5956,
+    "longitude": 106.7904,
+    "coordinate_system": "WGS84",
+    "coordinate_type": "STATION_CENTER",
+    "region_code": "CGK",
+    "source_api_lines": [
+      "KCI:B"
+    ],
+    "data_source": "USER_UPLOADED_COMMUTE_DATA_API_RESPONSE",
+    "verification_status": "SOURCE_DATA_PRESENT_NEEDS_INDEPENDENT_CROSS_CHECK",
+    "verified_at": null,
+    "is_active": true
+  }
+]

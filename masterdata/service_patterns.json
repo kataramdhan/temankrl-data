@@ -1,0 +1,68 @@
+[
+  {
+    "id": "KCI-SP-R-OUT",
+    "railway_line_id": "KCI-LINE-R",
+    "line_code": "R",
+    "origin_station_id": "KCI-THB",
+    "destination_station_id": "KCI-RK",
+    "direction": "TOWARD_TERMINUS",
+    "stopping_pattern_type": "ALL_STATIONS_BASELINE",
+    "verification_status": "ROUTE_ORDER_FROM_USER_MAP_STOP_PATTERN_UNVERIFIED",
+    "notes": "Directional baseline sequence transcribed from uploaded route map. Does not prove every train stops at every listed station."
+  },
+  {
+    "id": "KCI-SP-R-BACK",
+    "railway_line_id": "KCI-LINE-R",
+    "line_code": "R",
+    "origin_station_id": "KCI-RK",
+    "destination_station_id": "KCI-THB",
+    "direction": "TOWARD_ORIGIN",
+    "stopping_pattern_type": "ALL_STATIONS_BASELINE",
+    "verification_status": "ROUTE_ORDER_FROM_USER_MAP_STOP_PATTERN_UNVERIFIED",
+    "notes": "Directional baseline sequence transcribed from uploaded route map. Does not prove every train stops at every listed station."
+  },
+  {
+    "id": "KCI-SP-T-OUT",
+    "railway_line_id": "KCI-LINE-T",
+    "line_code": "T",
+    "origin_station_id": "KCI-DU",
+    "destination_station_id": "KCI-TNG",
+    "direction": "TOWARD_TERMINUS",
+    "stopping_pattern_type": "ALL_STATIONS_BASELINE",
+    "verification_status": "ROUTE_ORDER_FROM_USER_MAP_STOP_PATTERN_UNVERIFIED",
+    "notes": "Directional baseline sequence transcribed from uploaded route map. Does not prove every train stops at every listed station."
+  },
+  {
+    "id": "KCI-SP-T-BACK",
+    "railway_line_id": "KCI-LINE-T",
+    "line_code": "T",
+    "origin_station_id": "KCI-TNG",
+    "destination_station_id": "KCI-DU",
+    "direction": "TOWARD_ORIGIN",
+    "stopping_pattern_type": "ALL_STATIONS_BASELINE",
+    "verification_status": "ROUTE_ORDER_FROM_USER_MAP_STOP_PATTERN_UNVERIFIED",
+    "notes": "Directional baseline sequence transcribed from uploaded route map. Does not prove every train stops at every listed station."
+  },
+  {
+    "id": "KCI-SP-B-OUT",
+    "railway_line_id": "KCI-LINE-B",
+    "line_code": "B",
+    "origin_station_id": "KCI-JAKK",
+    "destination_station_id": "KCI-BOO",
+    "direction": "TOWARD_TERMINUS",
+    "stopping_pattern_type": "ALL_STATIONS_BASELINE",
+    "verification_status": "ROUTE_ORDER_FROM_USER_MAP_STOP_PATTERN_UNVERIFIED",
+    "notes": "Directional baseline sequence transcribed from uploaded route map. Does not prove every train stops at every listed station."
+  },
+  {
+    "id": "KCI-SP-B-BACK",
+    "railway_line_id": "KCI-LINE-B",
+    "line_code": "B",
+    "origin_station_id": "KCI-BOO",
+    "destination_station_id": "KCI-JAKK",
+    "direction": "TOWARD_ORIGIN",
+    "stopping_pattern_type": "ALL_STATIONS_BASELINE",
+    "verification_status": "ROUTE_ORDER_FROM_USER_MAP_STOP_PATTERN_UNVERIFIED",
+    "notes": "Directional baseline sequence transcribed from uploaded route map. Does not prove every train stops at every listed station."
+  }
+]

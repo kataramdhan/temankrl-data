@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "SRC-USER-UPLOAD-API",
+    "name": "User-uploaded Pasted markdown.md (JSON station response)",
+    "url": "https://data.commute.shiorilabs.id/docs",
+    "usage": "Station IDs, station codes, names, operator line tags, coordinates and region codes",
+    "verification_status": "SOURCE_VALUES_IMPORTED_INDEPENDENT_VALIDATION_PENDING",
+    "license_note": "Confirm upstream license and attribution/share-alike obligations before app distribution."
+  },
+  {
+    "source_id": "SRC-USER-UPLOADED-KCI-MAP",
+    "name": "User-uploaded KAI Commuter route map",
+    "url": null,
+    "usage": "Selected MVP coverage and directional route order",
+    "verification_status": "VISUAL_REFERENCE_ONLY"
+  },
+  {
+    "source_id": "SRC-OWNER-JATAKE-TASK",
+    "name": "TEMANKRL_CLAUDE_JATAKE_IMPLEMENTATION.md (project owner)",
+    "url": null,
+    "usage": "Jatake: name, station code JTK, candidate coordinates (-6.334754611, 106.606388611), position between Cicayur and Parung Panjang",
+    "retrieved_at": "2026-11-14",
+    "verification_status": "OWNER_SUPPLIED_CODE_NOT_CONFIRMED_BY_OFFICIAL_SOURCE"
+  },
+  {
+    "source_id": "SRC-OSM-JATAKE",
+    "name": "OpenStreetMap: Stasiun Jatake (way 631439998, building=train_station) via Nominatim",
+    "url": "https://www.openstreetmap.org/way/631439998",
+    "usage": "Cross-check only: OSM point -6.3345495, 106.6065644 is about 30 m from the owner-supplied coordinates (within the station building). Coordinates were NOT replaced.",
+    "retrieved_at": "2026-11-14",
+    "verification_status": "COMMUNITY_SOURCE_CROSS_CHECK",
+    "license_note": "OpenStreetMap contributors, ODbL 1.0."
+  },
+  {
+    "source_id": "SRC-NEWS-JATAKE-OPENING",
+    "name": "Kompas TV / Bisnis.com / CNBC Indonesia news (Jan 2026)",
+    "url": "https://www.kompas.tv/info-publik/650961/rute-krl-yang-lewati-stasiun-jatake-dan-cara-cek-kedatangan-kereta",
+    "usage": "Operational status: KRL Tanah Abang - Rangkasbitung stop at Jatake from 28 Jan 2026; located between Cicayur and Parung Panjang. No station code or per-train stopping detail given.",
+    "retrieved_at": "2026-11-14",
+    "verification_status": "SECONDARY_SOURCE"
+  }
+]

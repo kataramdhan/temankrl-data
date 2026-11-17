@@ -1,0 +1,57 @@
+{
+  "dataset_name": "TemanKRL KRL Jabodetabek MVP Master Data",
+  "dataset_version": "1.0.0",
+  "generated_at": "2026-11-17T00:00:00+00:00",
+  "is_verified": true,
+  "verified_by": "Product owner, after physical-device field testing (2026-11-17, DECISIONS D-066)",
+  "operator_code": "KCI",
+  "coverage": [
+    "KCI:R",
+    "KCI:T",
+    "KCI:B"
+  ],
+  "excluded": [
+    "Lin Bogor cabang Nambo",
+    "Lin Cikarang",
+    "Lin Tanjung Priok"
+  ],
+  "source_file": "User-uploaded Pasted markdown.md containing a JSON response with 112 station records",
+  "source_data_status": "Coordinates and station codes populated from supplied API response; accepted for production by the product owner after field testing. No independent official cross-check was performed.",
+  "important_status": "OWNER_VERIFIED",
+  "counts": {
+    "source_api_records": 112,
+    "selected_unique_stations": 55,
+    "selected_lines": 3,
+    "directional_baseline_patterns": 6,
+    "pattern_stop_rows": 110,
+    "missing_coordinates": 0,
+    "duplicate_station_codes": 0,
+    "owner_supplied_stations": 1
+  },
+  "changes": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-17",
+      "summary": "First production release: marked verified by the product owner (DECISIONS D-066). Station, line and pattern records are identical to 0.2.1-draft.",
+      "sources": []
+    },
+    {
+      "version": "0.2.1-draft",
+      "date": "2026-11-14",
+      "summary": "Added Stasiun Jatake (KCI-JTK, code JTK) on Lin Rangkasbitung between Cicayur and Parung Panjang in KCI-SP-R-OUT (sequence 11) and KCI-SP-R-BACK (sequence 10); later stops in both patterns shift by one. No other station record changed.",
+      "sources": [
+        "SRC-OWNER-JATAKE-TASK",
+        "SRC-OSM-JATAKE",
+        "SRC-NEWS-JATAKE-OPENING"
+      ]
+    }
+  ],
+  "limitations": [
+    "The uploaded API response is treated as the supplied source snapshot; its live freshness and upstream provenance are not independently established here.",
+    "Coordinates are present in the source response but still need independent cross-check before GPS production use.",
+    "The route map provides line topology and order, not train-by-train stopping patterns.",
+    "Six patterns are full-stop directional baselines only. Actual express/short-turn/operational stop variants are not yet established.",
+    "Review source license and attribution obligations before bundling or redistributing the data.",
+    "Jatake (JTK) is owner-supplied: coordinates cross-checked against OpenStreetMap (about 30 m apart), station code JTK not confirmed by an official source, stopping assumed as in the full-stop baseline (opened 28 Jan 2026 on Tanah Abang - Rangkasbitung)."
+  ]
+}
